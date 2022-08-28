@@ -1,3 +1,4 @@
+/*
 #import "FISoundDevice.h"
 
 @interface FISoundDeviceTests : SenTestCase
@@ -11,3 +12,4 @@
 }
 
 @end
+*/

@@ -6,8 +6,8 @@
 //
 //
 
-#import <Foundation/Foundation.h>
-
-@interface FISoundSourceTests : NSObject
-
-@end
+//#import <Foundation/Foundation.h>
+//
+//@interface FISoundSourceTests : NSObject
+//
+//@end

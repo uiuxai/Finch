@@ -1,3 +1,4 @@
+/*
 #import "FITestCase.h"
 #import "FISound.h"
 
@@ -23,3 +24,4 @@
 }
 
 @end
+*/
